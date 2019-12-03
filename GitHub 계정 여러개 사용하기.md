@@ -58,9 +58,11 @@ $ ssh-add ~/.ssh/id_rsa_second
 
 ## 4. Config 파일 생성하기
 
-#### 로컬에서 작업한 내용을 깃허브로 푸시할 때, 어떤 키를 참조할 것인지 결정하는 Config 파일을 생헝한다.
+#### 로컬에서 작업한 내용을 깃허브로 푸시할 때, 어떤 키를 참조할 것인지 결정하는 Config 파일을 생성한다.
 
 ~~~
+$ vi config
+
 # 첫번째 계정
 Host github.com-first
   HostName github.com
