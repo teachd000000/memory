@@ -1,4 +1,4 @@
-# JAVA8 함수형 인터페이스(Functional Interface) 종류
+# Java 8 함수형 인터페이스(Functional Interface) 종류
 
 ## Supplier<T>
 

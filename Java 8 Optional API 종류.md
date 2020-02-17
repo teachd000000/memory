@@ -1,4 +1,4 @@
-# JAVA8 Optional API 종류
+# Java 8 Optional API 종류
 
 ## Optional<T> ofNullable(T value)
 
